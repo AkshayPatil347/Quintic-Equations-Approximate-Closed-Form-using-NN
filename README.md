@@ -8,3 +8,6 @@ with errors in prediction... But more research is needed varying the architectur
 3. Lagrangian NN (Probabilistic Interpretation of NN) (this method is yet to be implemented for this problem)...to find the respective optimum architectures in the three methods for the given generated dataset of polynomial.
 
 The original idea was to curvefit but was later shifted to using NN ...The original idea proof of concept is briefly discussed here - https://www.researchgate.net/publication/392595745_Closed_form_solution_of_quintic_Ie_degree_5_polynomial_equation_Proof_of_concept
+
+One can also follow this approach to find the mapping equations of degree 2 (quadratic) , degree 3 (cubic) and degree 4 (quartic) whose equations are
+already known to research the NN architechtures best suited for higher degrees ...
