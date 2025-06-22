@@ -10,4 +10,4 @@ with errors in prediction... But more research is needed varying the architectur
 The original idea was to curvefit but was later shifted to using NN ...The original idea proof of concept is briefly discussed here - https://www.researchgate.net/publication/392595745_Closed_form_solution_of_quintic_Ie_degree_5_polynomial_equation_Proof_of_concept
 
 One can also follow this approach to find the mapping equations of degree 2 (quadratic) , degree 3 (cubic) and degree 4 (quartic) whose equations are
-already known to research the NN architechtures best suited for higher degrees ...Also one can use binary encoding of the decimal numbers and train the model on the input and output array of sizes (6, Number of Elements in the binary vector of per decimal coefficient) and (10, " per real and imaginary part of root ")
+already known to research the NN architechtures best suited for higher degrees ...Also one can use binary encoding of the decimal numbers and train the model on the input and output array of sizes (6, Number of Elements in the binary vector of per decimal coefficient) and (10, Number of Elements in the binary vector per real and imaginary part of root ")
